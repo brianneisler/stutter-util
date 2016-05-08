@@ -1,2 +1,2 @@
 # stutter-util
-Util module for stutter
+Utils for stutter
